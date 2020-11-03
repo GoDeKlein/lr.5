@@ -1,0 +1,2 @@
+D:\github\LR.5\LR5\Debug\LR5.exe
+D:\github\LR.5\LR5\Debug\LR5.pdb
